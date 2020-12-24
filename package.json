@@ -1,12 +1,12 @@
 {
   "name": "@windfallswap/lib",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0-alpha.1",
   "description": "📖 Solidity libraries that are shared across Windfall Swap contracts",
   "files": [
     "contracts",
     "!contracts/test"
   ],
-  "homepage": "https://windfallswap.org",
+  "homepage": "https://windfallswap.com",
   "repository": {
     "url": "https://github.com/WindfallSwap/windfallswap-lib",
     "type": "git"
